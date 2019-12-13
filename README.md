@@ -1,6 +1,6 @@
 # Introduction to GraphQL
 
-> NOTE: this tutorial comes from this [Yeam Treehouse Repo](https://github.com/treehouse-projects/intro-to-graphql)
+> NOTE: this tutorial comes from this [Team Treehouse Repo](https://github.com/treehouse-projects/intro-to-graphql)
 
 ## Running the Examples
 
