@@ -80,6 +80,12 @@ query ($movieOneId:ID!, $movieTwoId:ID!) {
     ...movieDetails
   }
 }
+
+fragment movieDetails on Movie {
+  id
+  title
+  releaseYear
+}
 ```
 
 movieOne and movieTwo are aliases. 
